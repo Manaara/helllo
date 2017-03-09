@@ -6,7 +6,7 @@ public class JenkinsClass {
 
 		
 		
-		System.out.println("hello");
+		System.out.println("hello Manar");
 	}
 
 }
